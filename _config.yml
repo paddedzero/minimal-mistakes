@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "A person sharing his learning here."
+  location         : "Hong Kong"
   email            :
   links:
     - label: "Email"
