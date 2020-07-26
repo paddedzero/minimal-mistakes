@@ -22,6 +22,7 @@ or
 step 2a
 fork a theme from a jekyll theme template
 used minimalmistakes from mine but there are other such as
+
 - theme 1
 - theme 2
 
@@ -44,9 +45,10 @@ ext 1
 ext 2
 
 once you setup your visual studio code, here are a few things to learn at a glance
+
 1. setting up git pages access
 2. serve local jekyll website for previews
 3. commit and push your files to github
 4. snippets, what are they
 
-
+thats it
