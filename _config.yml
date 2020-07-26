@@ -290,11 +290,6 @@ defaults:
     comments: true
     share: true
     related: true
-    toc: false
-    toc_label: Post Sections
-    toc_icon: stream
-    toc_sticky: false
-    classes: wide
   # Pages
   - scope:
     path: "_pages"
@@ -306,11 +301,6 @@ defaults:
     comments: false
     share: false
     related: false
-    toc: false
-    toc_label: Post Sections
-    toc_icon: stream
-    toc_sticky: false
-    classes: wide
   # Images
   - scope:
     path: "assets/img"
