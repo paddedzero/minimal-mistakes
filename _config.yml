@@ -85,9 +85,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-173577116-1"
     anonymize_ip         : # true, false (default)
 
 
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Alpha Lima"
   avatar           : "/assets/images/robot-hi.png"
-  bio              : "A person sharing his learning here."
+  bio              : "To share is to learn, to learn is to grow"
   location         : "Hong Kong"
   email            :
   links:
