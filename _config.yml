@@ -88,7 +88,7 @@ analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "UA-173577116-1"
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/robot-hi.png"
   bio              : "To share is to learn, to learn is to grow"
   location         : "Hong Kong"
-  email            :
+  email            : "yourtechaddict@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -169,9 +169,7 @@ exclude:
   - package-lock.json
   - Rakefile
   - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - _drafts
 keep_files:
   - .git
   - .svn
