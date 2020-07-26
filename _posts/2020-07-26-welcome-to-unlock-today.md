@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Unlocked Today!"
 excerpt_separator: "<!--more-->"
-date: 2020-07-26T18:00:05 
+date: 2020-07-26T18:00:05-04:00
 categories:
   - blog
 tags:
