@@ -22,9 +22,9 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Alpha Lima"
 description              : "Unlocked todays experience, looking forward, leaving the past."
 url                      : "https://paddedzero.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# baseurl                  : # the subpath of your site, e.g. "/blog"
+# repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+# teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -192,7 +192,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  #toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
@@ -207,7 +207,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: hk # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -279,28 +279,28 @@ defaults:
       related: true
   # Draft posts (should be identical to the Posts section above, except for the path)
   - scope:
-    path: "_drafts"
-    type: posts
-  values:
-    layout: single
-    author_profile: true
-    read_time: true
-    comments: true
-    share: true
-    related: true
+      path: "_drafts"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # Pages
   - scope:
-    path: "_pages"
-    type: pages
-  values:
-    layout: single
-    author_profile: true
-    read_time: false
-    comments: false
-    share: false
-    related: false
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # Images
   - scope:
-    path: "assets/img"
-  values:
-    image: true
+      path: "assets/img"
+    values:
+      image: true
