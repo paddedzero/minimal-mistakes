@@ -13,20 +13,20 @@ I've decided to move my page to github pages. Have decided to start afresh and n
 
 If this all terms seems new to you, not too late to pick them up no matter what your background is. Lots of tutorial videos on using git and there aren't as much programming to muck around on contrary belief if you are looking to just start with something basic. Plus this is a FREE option for hosting your webpages and it's definitely worth it to pick this up.
 
-So welcome to 
-## **<span style="color:lightblue">"Unlocked.Today"</span>**!
+So welcome to
+
+## **<span style="color:lightblue">"Unlocked.Today"</span>**
 
 Since I decided to setup my pages at github pages, though it was worth to document some of the journey down here.
 
 ### **CONTENTS**
+
 >include content that is diplayed below
 
 **`step 1 - get github account`**
 
-
 Register your account at
   www.github.com
-
 
 **`step 2 - setup github pages`**
 
