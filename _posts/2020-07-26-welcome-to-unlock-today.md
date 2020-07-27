@@ -27,7 +27,7 @@ Since I decided to setup my pages at **Github Pages**, though it was worth to do
 
 Register your account at
   www.github.com
-![www.github.com](/assets/images/2020-07-26/signup-github.png){: width=150 height=100 style="float:right; padding:16px"}
+![www.github.com](/assets/images/2020-07-26/signup-github.png){: width=150 height=300 style="float:right; padding:16px"}
 
 Github is used as a hosting platform for software development and version control. Commonly used for open-source projects and is **FREE**.
 
