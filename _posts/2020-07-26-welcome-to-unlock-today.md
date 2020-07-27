@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Unlocked Today!"
+title: "Welcome to Unlocked Today!/n Messing with Github Pages"
 excerpt_separator: "<!--more-->"
 date: 2020-07-26T18:00:05-04:00
 categories:
@@ -9,18 +9,29 @@ tags:
   - update
 ---
 
-I've decided to move my page to github pages. Have not migrated over here the wordpress contents.
-So welcome to "Unlocked.Today"!
+I've decided to move my page to github pages. Have decided to start afresh and not migrate my Wordpress content. If this is your first time working with things like `git, github, markdown or static file generators` - starting a fresh might be a good option.
 
-step 1
-get github account
+If this all terms seems new to you, not too late to pick them up no matter what your background is. Lots of tutorial videos on using git and there aren't as much programming to muck around on contrary belief if you are looking to just start with something basic. Plus this is a FREE option for hosting your webpages and it's definitely worth it to pick this up.
 
-step 2
-setup github pages
+So welcome to 
+## **<span style="color:lightblue">"Unlocked.Today"</span>**!
+
+Since I decided to setup my pages at github pages, though it was worth to document some of the journey down here.
+
+### **CONTENTS**
+>include content that is diplayed below
+
+**`step 1 - get github account`**
+
+
+Register your account at
+  www.github.com
+
+
+**`step 2 - setup github pages`**
 
 or
-step 2a
-fork a theme from a jekyll theme template
+**`step 2a - fork a theme from a jekyll theme template`**
 used minimalmistakes from mine but there are other such as
 
 - theme 1
@@ -30,10 +41,10 @@ for the jekyll layout, default layout should look like the below
 
 <!--more-->
 
-step 3
+**`step 3 - customization of site details`**
 customize the config.yaml to match your preferred details
 
-step 4
+**`step 4 - first steps to writing your posts`**
 write your firsts posts
 
 now you have setup your first jekyll site with github pages
