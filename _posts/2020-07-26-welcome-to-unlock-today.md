@@ -7,7 +7,7 @@ categories:
 tags:
   - Jekyll
   - update
-markdown: kramdown
+classes: wide
 ---
 
 I've decided to move my page to **Github Pages**. Have decided to start afresh and not migrate my **Wordpress** content. If this is your first time working with things like <span style="color:grey">**git, github, jekyll, markdown or static file generators**</span> - starting afresh might be a good option.
