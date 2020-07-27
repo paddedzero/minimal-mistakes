@@ -27,7 +27,7 @@ Since I decided to setup my pages at **Github Pages**, though it was worth to do
 
 Register your account at
   www.github.com
-![www.github.com](/assets/images/2020-07-26/signup-github.png){: width=150 height=300 style="float:right; padding:16px"}
+![www.github.com](/assets/images/2020-07-26/signup-github.png){: width=150 height=300; padding:16px"}
 
 Github is used as a hosting platform for software development and version control. Commonly used for open-source projects and is **FREE**.
 
@@ -41,6 +41,7 @@ the fun bit. at this point, you can jump to **STEP 3** and then come back here. 
 
 click <span style="color:grey">**>settings**</span> in your new repository
 ![gitsettings1](/assets/images/2020-07-26/github-pages-part1.png)
+
 Fill in your new page name as per above. The username needs to match your profile username. This is how the internet will reach your **Github Pages** (website) at **\<USERNAME\>.github.io**
 
 If you scroll further down the same click <span style="color:grey">**>settings**</span> page you will come across this
@@ -73,6 +74,7 @@ What we are trying to do is use this repository as our base. There are a few way
 
 Else, I am going to show you another method which is forking.
 On the right hand side of the screen you will see the fork button.
+
 ![fork2](/assets/images/2020-07-26/fork-part1.png)
 
 You will then have the entire repository of minimalmistakes in your folder.
@@ -82,10 +84,12 @@ All you have to do now, is follow **STEP 2** to change this repository name as w
 At this point, give it around 10 minutes to populate. By now your page should be up at the **\<USERNAME\>.github.io**. You can check it out.
 
 Next you need to customize the file - `_config.yaml` which exists in the main folder of your "forked" repository. To keep it simple, just click the file and it will open up this page.
+
 ![editfile-part1](/assets/images/2020-07-26/config-yml-part1.png)
 
 For the most part, you can edit all your files in the similar way.
 Next, edit this file. There is an icon for edit on the right hand side of the box.
+
 ![editfile-part2](/assets/images/2020-07-26/config-yml-part2.png)
 
 Customize the config.yaml to match your preferred details. For a start, try changing the URL to match your url and also the various descriptions. Change values which are after the **':'** on the right hand side of the code.
