@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Unlocked Today!/n Messing with Github Pages"
+title: "Welcome to Unlocked Today!<br>Building your website with Github Pages"
 excerpt_separator: "<!--more-->"
 date: 2020-07-26T18:00:05-04:00
 categories:
@@ -9,7 +9,7 @@ tags:
   - update
 ---
 
-I've decided to move my page to github pages. Have decided to start afresh and not migrate my Wordpress content. If this is your first time working with things like `git, github, markdown or static file generators` - starting a fresh might be a good option.
+I've decided to move my page to github pages. Have decided to start afresh and not migrate my Wordpress content. If this is your first time working with things like <span style="color:green">git, github, markdown or static file generators</span> - starting afresh might be a good option.
 
 If this all terms seems new to you, not too late to pick them up no matter what your background is. Lots of tutorial videos on using git and there aren't as much programming to muck around on contrary belief if you are looking to just start with something basic. Plus this is a FREE option for hosting your webpages and it's definitely worth it to pick this up.
 
