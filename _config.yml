@@ -170,6 +170,7 @@ exclude:
   - Rakefile
   - README
   - _drafts
+  - _posts/archive
 keep_files:
   - .git
   - .svn
