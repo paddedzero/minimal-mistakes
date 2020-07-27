@@ -113,14 +113,20 @@ Now you have setup your first jekyll site with github pages and have published y
 Next is to customize your blogging experience by setting up your writing environment
 
 Recommend getting Visual Studio Code which is free and install extensions such as
-ext 1
-ext 2
++ markdownlint
++ github pull requests and issues
++ markdown all in one
++ yaml
 
-once you setup your visual studio code, here are a few things to learn at a glance
+once you setup your visual studio code, here are a few things to continue learning at a glance
 
-1. setting up git pages access
-2. serve local jekyll website for previews
-3. commit and push your files to github
-4. snippets, what are they
+1. setting up git pages access on your local machine
+2. serve local jekyll website for previews on your local machine
+3. commit and push your files to github from VSCode
+4. snippets, what are they? This will make your markdown editing life easier
+5. analytics - find out who or where these people visiting your website are coming from
 
-thats it
+Jekyll also provides a good reference for additional resource reading.
+https://jekyllrb.com/resources/
+
+thats it.
