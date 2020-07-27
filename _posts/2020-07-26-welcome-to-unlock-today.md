@@ -7,11 +7,12 @@ categories:
 tags:
   - Jekyll
   - update
+markdown: kramdown
 ---
 
 I've decided to move my page to **Github Pages**. Have decided to start afresh and not migrate my **Wordpress** content. If this is your first time working with things like <span style="color:grey">**git, github, jekyll, markdown or static file generators**</span> - starting afresh might be a good option.
 
-If all these terms seems new to you, not too late to pick them up no matter what your background is. Lots of tutorial videos on using git and there aren't as much programming to muck around on contrary belief if you are looking to just start with something basic. Plus this is a FREE option for hosting your webpages and it's definitely worth it to pick this up.
+If all these terms seems new to you, not too late to pick them up no matter what your background is. Lots of tutorial videos on using git and there isn't as much programming to muck around on contrary belief if you are looking to just start with something basic. Plus this is a **FREE** option for hosting your webpages and it's definitely worth it to pick this up.
 
 So welcome to 
 ## **<span style="color:lightblue">"Unlocked.Today"</span>**
@@ -22,10 +23,13 @@ Since I decided to setup my pages at **Github Pages**, though it was worth to do
 
 >include content that is diplayed below
 
-**`step 1 - get github account`**
+**`step 1 - get a github account`**
 
 Register your account at
   www.github.com
+![www.github.com](/assets/images/2020-07-26/signup-github.png){: width=150 height=100 style="float:right; padding:16px"}
+
+Github is used as a hosting platform for software development and version control. Commonly used for open-source projects and is **FREE**.
 
 **`step 2 - setup github pages`**
 
