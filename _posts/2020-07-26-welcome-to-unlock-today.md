@@ -70,10 +70,9 @@ Keep in mind, I am going for the **FREE** and **BASIC** site yet gives you the p
 So with that in mind, let's go to github and click on the git link for **minimalmistakes** which brings you to a similar looking page below
 ![fork1](/assets/images/2020-07-26/fork-part2.png)
 
-What we are trying to do is use this repository as our base. There are a few ways to do it. If you have performed step 1 and 2 then you just need to download and upload back into that page.
+What we are trying to do is use this repository as our base. There are a few ways to do it. If you have performed step 1 and 2 then you just need to download and upload back into your created repository. That's it to get your site up and going.
 
-Else, I am going to show you another method which is forking.
-On the right hand side of the screen you will see the fork button.
+The other method to use is forking which will replicate the jekyll template at a click of a button. On the right hand side of the repository screen you will see the fork button.
 
 ![fork2](/assets/images/2020-07-26/fork-part1.png)
 
