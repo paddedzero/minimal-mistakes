@@ -36,6 +36,7 @@ Once you've created your account you will be brought to this page
 Give it a recognizable name to yourself, take note this will be accessible to the world unless you set it to private. However, since we are setting up a website. This will be set to public. Imagine this like your giant folder accessible through the internet.
 
 **`step 2 - setup github pages`**
+
 the fun bit. at this point, you can jump to **STEP 3** and then come back here. Or you could set this up and just copy the Jekyll template into our Github repository here.
 
 click <span style="color:grey">**>settings**</span> in your new repository
